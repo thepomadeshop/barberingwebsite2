@@ -1,0 +1,27 @@
+ .jumbotron {
+     background-image: url("../img/jumbotron_background1.jpg")
+ }
+ 
+ .barbering {
+     font-family: 'Hammersmith One', sans-serif;
+     color: white;
+     font-weight: bold;
+ }
+ 
+ .barbering1 {
+     font-family: 'Montserrat', sans-serif;
+     color: white;
+     font-weight: bolder;
+ }
+ 
+ #b1 {
+     font-family: 'Montserrat', sans-serif;
+     background-color: white;
+     font-weight: bolder;
+ }
+ 
+ #b2 {
+     font-family: 'Montserrat', sans-serif;
+     background-color: white;
+     font-weight: bolder;
+ }
